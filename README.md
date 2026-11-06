@@ -17,6 +17,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 03 | Variables, Mutability and Shadowing | [chapters/03-variables-mutability-and-shadowing](chapters/03-variables-mutability-and-shadowing) |
 | 04 | Numbers, Characters, Tuples and Arrays | [chapters/04-numbers-characters-tuples-and-arrays](chapters/04-numbers-characters-tuples-and-arrays) |
 | 05 | Functions and Expressions | [chapters/05-functions-and-expressions](chapters/05-functions-and-expressions) |
+| 06 | Decisions and Loops: if, loop, while and for | [chapters/06-decisions-and-loops-if-loop-while-and-for](chapters/06-decisions-and-loops-if-loop-while-and-for) |
 
 ## License
 

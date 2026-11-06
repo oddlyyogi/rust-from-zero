@@ -498,8 +498,12 @@ impl Deliver for Bike {
 }
 
 fn main() {
-    let van = Van { plate: String::from("V7") };
-    let bike = Bike { rider: String::from("Sam") };
+    let van = Van {
+        plate: String::from("V7"),
+    };
+    let bike = Bike {
+        rider: String::from("Sam"),
+    };
     let fleet = vec![van, bike];
 }
 ```
@@ -532,8 +536,12 @@ impl Deliver for Bike {
 }
 
 fn main() {
-    let van = Van { plate: String::from("V7") };
-    let bike = Bike { rider: String::from("Sam") };
+    let van = Van {
+        plate: String::from("V7"),
+    };
+    let bike = Bike {
+        rider: String::from("Sam"),
+    };
     let fleet: Vec<Box<dyn Deliver>> = vec![Box::new(van), Box::new(bike)];
     for v in &fleet {
         println!("{}", v.deliver("HP-9"));

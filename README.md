@@ -47,6 +47,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 33 | JSON and HTTP Calls with serde and reqwest | [chapters/33-json-and-http-calls-with-serde-and-reqwest](chapters/33-json-and-http-calls-with-serde-and-reqwest) |
 | 34 | Build a Web API with axum | [chapters/34-build-a-web-api-with-axum](chapters/34-build-a-web-api-with-axum) |
 | 35 | Store Data in a Database with SQLx | [chapters/35-store-data-in-a-database-with-sqlx](chapters/35-store-data-in-a-database-with-sqlx) |
+| 36 | Macros, unsafe and Shipping a Release: Final Project | [chapters/36-macros-unsafe-and-shipping-a-release-final-project](chapters/36-macros-unsafe-and-shipping-a-release-final-project) |
 
 ## License
 

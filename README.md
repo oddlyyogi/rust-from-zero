@@ -21,6 +21,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 07 | The Stack, the Heap and String | [chapters/07-the-stack-the-heap-and-string](chapters/07-the-stack-the-heap-and-string) |
 | 08 | Ownership: Moves, Clone and Copy | [chapters/08-ownership-moves-clone-and-copy](chapters/08-ownership-moves-clone-and-copy) |
 | 09 | Borrowing: Using a Value Without Owning It | [chapters/09-borrowing-using-a-value-without-owning-it](chapters/09-borrowing-using-a-value-without-owning-it) |
+| 10 | Mutable References and the Borrow Rules | [chapters/10-mutable-references-and-the-borrow-rules](chapters/10-mutable-references-and-the-borrow-rules) |
 
 ## License
 

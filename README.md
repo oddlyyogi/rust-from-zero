@@ -42,6 +42,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 28 | Box, Deref and Drop | [chapters/28-box-deref-and-drop](chapters/28-box-deref-and-drop) |
 | 29 | Rc, RefCell and Weak | [chapters/29-rc-refcell-and-weak](chapters/29-rc-refcell-and-weak) |
 | 30 | Threads and Channels | [chapters/30-threads-and-channels](chapters/30-threads-and-channels) |
+| 31 | Arc, Mutex, Send and Sync | [chapters/31-arc-mutex-send-and-sync](chapters/31-arc-mutex-send-and-sync) |
 
 ## License
 

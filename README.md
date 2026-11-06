@@ -33,6 +33,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 19 | Custom Error Types | [chapters/19-custom-error-types](chapters/19-custom-error-types) |
 | 20 | Modules, Packages and Crates | [chapters/20-modules-packages-and-crates](chapters/20-modules-packages-and-crates) |
 | 21 | Generics: One Design, Many Types | [chapters/21-generics-one-design-many-types](chapters/21-generics-one-design-many-types) |
+| 22 | Traits: Shared Behaviour | [chapters/22-traits-shared-behaviour](chapters/22-traits-shared-behaviour) |
 
 ## License
 

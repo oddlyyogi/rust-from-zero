@@ -36,6 +36,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 22 | Traits: Shared Behaviour | [chapters/22-traits-shared-behaviour](chapters/22-traits-shared-behaviour) |
 | 23 | Lifetimes Without the Fear | [chapters/23-lifetimes-without-the-fear](chapters/23-lifetimes-without-the-fear) |
 | 24 | Closures: Small Functions That Remember | [chapters/24-closures-small-functions-that-remember](chapters/24-closures-small-functions-that-remember) |
+| 25 | Iterators: The Conveyor Belt | [chapters/25-iterators-the-conveyor-belt](chapters/25-iterators-the-conveyor-belt) |
 
 ## License
 

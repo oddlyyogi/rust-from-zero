@@ -22,6 +22,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 08 | Ownership: Moves, Clone and Copy | [chapters/08-ownership-moves-clone-and-copy](chapters/08-ownership-moves-clone-and-copy) |
 | 09 | Borrowing: Using a Value Without Owning It | [chapters/09-borrowing-using-a-value-without-owning-it](chapters/09-borrowing-using-a-value-without-owning-it) |
 | 10 | Mutable References and the Borrow Rules | [chapters/10-mutable-references-and-the-borrow-rules](chapters/10-mutable-references-and-the-borrow-rules) |
+| 11 | Slices: Borrowing Part of Something | [chapters/11-slices-borrowing-part-of-something](chapters/11-slices-borrowing-part-of-something) |
 
 ## License
 

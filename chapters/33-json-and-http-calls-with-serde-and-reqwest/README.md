@@ -345,7 +345,8 @@ async fn weather(
     lon: f64,
 ) -> Result<String, reqwest::Error> {
     let url = format!(
-        "https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}&current_weather=true"
+        "https://api.open-meteo.com/v1/forecast?latitude={lat}&longitude={lon}\
+         &current_weather=true"
     );
     let forecast: Forecast = client
         .get(url)

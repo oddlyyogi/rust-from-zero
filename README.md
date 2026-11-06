@@ -39,6 +39,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 25 | Iterators: The Conveyor Belt | [chapters/25-iterators-the-conveyor-belt](chapters/25-iterators-the-conveyor-belt) |
 | 26 | Testing and Documentation | [chapters/26-testing-and-documentation](chapters/26-testing-and-documentation) |
 | 27 | Project: A Real Command Line Tool | [chapters/27-project-a-real-command-line-tool](chapters/27-project-a-real-command-line-tool) |
+| 28 | Box, Deref and Drop | [chapters/28-box-deref-and-drop](chapters/28-box-deref-and-drop) |
 
 ## License
 

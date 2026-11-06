@@ -24,6 +24,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 10 | Mutable References and the Borrow Rules | [chapters/10-mutable-references-and-the-borrow-rules](chapters/10-mutable-references-and-the-borrow-rules) |
 | 11 | Slices: Borrowing Part of Something | [chapters/11-slices-borrowing-part-of-something](chapters/11-slices-borrowing-part-of-something) |
 | 12 | Structs and Methods | [chapters/12-structs-and-methods](chapters/12-structs-and-methods) |
+| 13 | Enums and Option | [chapters/13-enums-and-option](chapters/13-enums-and-option) |
 
 ## License
 

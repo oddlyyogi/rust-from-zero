@@ -45,6 +45,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 31 | Arc, Mutex, Send and Sync | [chapters/31-arc-mutex-send-and-sync](chapters/31-arc-mutex-send-and-sync) |
 | 32 | async and await with Tokio | [chapters/32-async-and-await-with-tokio](chapters/32-async-and-await-with-tokio) |
 | 33 | JSON and HTTP Calls with serde and reqwest | [chapters/33-json-and-http-calls-with-serde-and-reqwest](chapters/33-json-and-http-calls-with-serde-and-reqwest) |
+| 34 | Build a Web API with axum | [chapters/34-build-a-web-api-with-axum](chapters/34-build-a-web-api-with-axum) |
 
 ## License
 

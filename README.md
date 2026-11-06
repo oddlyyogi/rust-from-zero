@@ -37,6 +37,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 23 | Lifetimes Without the Fear | [chapters/23-lifetimes-without-the-fear](chapters/23-lifetimes-without-the-fear) |
 | 24 | Closures: Small Functions That Remember | [chapters/24-closures-small-functions-that-remember](chapters/24-closures-small-functions-that-remember) |
 | 25 | Iterators: The Conveyor Belt | [chapters/25-iterators-the-conveyor-belt](chapters/25-iterators-the-conveyor-belt) |
+| 26 | Testing and Documentation | [chapters/26-testing-and-documentation](chapters/26-testing-and-documentation) |
 
 ## License
 

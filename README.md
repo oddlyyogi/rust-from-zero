@@ -27,6 +27,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 13 | Enums and Option | [chapters/13-enums-and-option](chapters/13-enums-and-option) |
 | 14 | match, if let and let else | [chapters/14-match-if-let-and-let-else](chapters/14-match-if-let-and-let-else) |
 | 15 | Vec: A List That Can Grow | [chapters/15-vec-a-list-that-can-grow](chapters/15-vec-a-list-that-can-grow) |
+| 16 | Strings and UTF-8 | [chapters/16-strings-and-utf-8](chapters/16-strings-and-utf-8) |
 
 ## License
 

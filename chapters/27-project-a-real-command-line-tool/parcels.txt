@@ -1,0 +1,2 @@
+HP-1,Oslo,12
+HP-2,Bergen,35

@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: rustup update stable && rustup default stable && rustup component add rustfmt
+      - name: Check every chapter
+        run: |
+          for d in chapters/*/; do
+            echo "::group::$d"
+            (cd "$d" && cargo check --locked && cargo fmt --check) || exit 1
+            echo "::endgroup::"
+          done

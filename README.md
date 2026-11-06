@@ -1,0 +1,20 @@
+# Rust from Zero
+
+Code for the **Rust from Zero** video series: one chapter at a time, using Rust 1.99.1 and edition 2024. The running example is Harbor Parcels, a small made-up courier company.
+
+Every chapter lives in its own folder under `chapters/` and runs on its own. Pick any chapter, `cd` into it and run `cargo run`.
+
+## Requirements
+
+Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup update` moves you to the newest stable version.
+
+## Chapters
+
+| # | Chapter | Folder |
+|---|---------|--------|
+| 01 | Why Rust, and Your First Program | [chapters/01-why-rust-and-your-first-program](chapters/01-why-rust-and-your-first-program) |
+| 02 | Cargo: Build, Check and Add Your First Crate | [chapters/02-cargo-build-check-and-add-your-first-crate](chapters/02-cargo-build-check-and-add-your-first-crate) |
+
+## License
+
+MIT

@@ -19,6 +19,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 05 | Functions and Expressions | [chapters/05-functions-and-expressions](chapters/05-functions-and-expressions) |
 | 06 | Decisions and Loops: if, loop, while and for | [chapters/06-decisions-and-loops-if-loop-while-and-for](chapters/06-decisions-and-loops-if-loop-while-and-for) |
 | 07 | The Stack, the Heap and String | [chapters/07-the-stack-the-heap-and-string](chapters/07-the-stack-the-heap-and-string) |
+| 08 | Ownership: Moves, Clone and Copy | [chapters/08-ownership-moves-clone-and-copy](chapters/08-ownership-moves-clone-and-copy) |
 
 ## License
 

@@ -16,6 +16,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 02 | Cargo: Build, Check and Add Your First Crate | [chapters/02-cargo-build-check-and-add-your-first-crate](chapters/02-cargo-build-check-and-add-your-first-crate) |
 | 03 | Variables, Mutability and Shadowing | [chapters/03-variables-mutability-and-shadowing](chapters/03-variables-mutability-and-shadowing) |
 | 04 | Numbers, Characters, Tuples and Arrays | [chapters/04-numbers-characters-tuples-and-arrays](chapters/04-numbers-characters-tuples-and-arrays) |
+| 05 | Functions and Expressions | [chapters/05-functions-and-expressions](chapters/05-functions-and-expressions) |
 
 ## License
 

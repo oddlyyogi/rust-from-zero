@@ -14,6 +14,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 |---|---------|--------|
 | 01 | Why Rust, and Your First Program | [chapters/01-why-rust-and-your-first-program](chapters/01-why-rust-and-your-first-program) |
 | 02 | Cargo: Build, Check and Add Your First Crate | [chapters/02-cargo-build-check-and-add-your-first-crate](chapters/02-cargo-build-check-and-add-your-first-crate) |
+| 03 | Variables, Mutability and Shadowing | [chapters/03-variables-mutability-and-shadowing](chapters/03-variables-mutability-and-shadowing) |
 
 ## License
 

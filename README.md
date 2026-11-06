@@ -40,6 +40,7 @@ Rust installed with [rustup](https://www.rust-lang.org/tools/install). `rustup u
 | 26 | Testing and Documentation | [chapters/26-testing-and-documentation](chapters/26-testing-and-documentation) |
 | 27 | Project: A Real Command Line Tool | [chapters/27-project-a-real-command-line-tool](chapters/27-project-a-real-command-line-tool) |
 | 28 | Box, Deref and Drop | [chapters/28-box-deref-and-drop](chapters/28-box-deref-and-drop) |
+| 29 | Rc, RefCell and Weak | [chapters/29-rc-refcell-and-weak](chapters/29-rc-refcell-and-weak) |
 
 ## License
 
